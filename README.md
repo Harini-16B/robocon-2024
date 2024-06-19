@@ -50,7 +50,7 @@ The ABU Asia-Pacific Robot Contest (ABU Robocon) is an annual college-level robo
 
 For any inquiries or more information about our participation in ABU Robocon 2024, please contact:
 
-**Team Member:** Vishwa J - jvishu06@gmail.com
+**Team Member:**  Harini B - harinixp@gmail.com
 
 ## Acknowledgements
 
